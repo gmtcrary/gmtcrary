@@ -17,7 +17,6 @@ https://user-images.githubusercontent.com/3671250/123532672-25ffb980-d74a-11eb-8
 - [Notes on `defect-process`'s message passing style game engine](https://github.com/adpextwindong/defect-process/blob/main/notes.md)
 
 ## Other
-- INTERESTS: Datalog, Static Analysis, TSQL, Haskell, Legacy Migration Analysis.
+- INTERESTS: Datalog, TSQL, Haskell, Legacy Migration Analysis.
 - HOW TO REACH ME:
-    - Twitter: [@adpextwindong](https://twitter.com/adPEXtwinDoNG)
     - Email: tcrary@gmail.com
